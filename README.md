@@ -11,4 +11,5 @@ stepfhen:guys =
 *.information
 .screen-reader-text:hover,
 .screen-reader-text:active,
-.screen-reader-text:focus }
+.screen-reader-text:f 
+:FORWARD
